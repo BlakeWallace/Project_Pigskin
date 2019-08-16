@@ -2,11 +2,15 @@
 
 ---
 
+<a id='creators'></a>
+
 ## Creators
   
 [Blake Wallace](https://www.linkedin.com/in/blake-wallace)  
 
 ---
+
+<a id='problem-statement'></a>
 
 ## Problem Statement
 
@@ -15,11 +19,13 @@
 ---
 
 ## Contents in README
-[Contents in Project Repo](#repo-content)
+[Creators](#creators)  
+[Problem Statement](#problem-statement)  
+[Contents in Project Repo](#repo-content)  
 [Data Dictionary](#data-dictionary)  
 [Executive Summary](#executive-summary)  
-[Future iterations/next steps](#next-steps)  
 [Known Issues](#known-issues)  
+[Future iterations/next steps](#next-steps)  
 [Data Sources](#data-sources)  
 [Sources](#sources)
 
@@ -95,12 +101,13 @@ preds|Model Prediction of Class
 
 ## Data Sources
 
-- [Sports Reference](https://www.sports-reference.com)  
-
+1. [Sports Reference](https://www.sports-reference.com)   
+    1. [CFB School Index](https://www.sports-reference.com/cfb/schools/)
+        1. [official win-loss-tie data](https://github.com/BlakeWallace/Project_Pigskin/blob/master/data_official_win_loss_tie.ipynb)
 ---
 
 <a id='sources'></a>
 
 ## Sources
 
-- [Sports Reference](https://www.sports-reference.com)
+1. [Sports Reference](https://www.sports-reference.com)
