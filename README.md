@@ -36,7 +36,7 @@
 ## Contents in Project Repo
 1. [Data](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Data)  
 1. [Notre_Dame_Football](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Notre_Dame_Football)
-    1. [Exploring_Notre_Dame_historical_stats](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Notre_Dame_Football/Exploring_Notre_Dame_historical_stats)
+    1. [Exploring_Notre_Dame_historical_stats](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Notre_Dame_Football/Exploring_Notre_Dame_historical_stats.ipynb)
     1. [notre_dame_football_historical_data](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Notre_Dame_Football/notre_dame_football_historical_data.ipynb)  
 1. [Objectives_and_Data_Science_Questions](https://github.com/BlakeWallace/Project_Pigskin/blob/master/Objectives_and_Data_Science_Questions.ipynb)  
 1. [Sources](https://github.com/BlakeWallace/Project_Pigskin/blob/master/Sources.ipynb)  
@@ -108,7 +108,9 @@ preds|Model Prediction of Class
 
 1. [Sports Reference](https://www.sports-reference.com)   
     1. [CFB School Index](https://www.sports-reference.com/cfb/schools/)
-        1. [win-loss-tie data](https://github.com/BlakeWallace/Project_Pigskin/blob/master/win_loss_tie_data.ipynb)
+        1. [win-loss-tie data](https://github.com/BlakeWallace/Project_Pigskin/blob/master/win_loss_tie_data.ipynb)  
+    1. [Sports Reference's Notre Dame Historical Data](https://www.sports-reference.com/cfb/schools/notre-dame/)  
+        1. [Exploring_Notre_Dame_historical_stats](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Notre_Dame_Football/Exploring_Notre_Dame_historical_stats.ipynb)  
 ---
 
 <a id='sources'></a>
