@@ -1,4 +1,5 @@
 # ![](https://github.com/BlakeWallace/Project_Pigskin) Project Pigskin
+#### 08/20/2019
 
 ---
 
@@ -7,6 +8,19 @@
 ## Creators
   
 [Blake Wallace](https://www.linkedin.com/in/blake-wallace)  
+
+---
+
+## Contents in README
+[Creators](#creators)  
+[Problem Statement](#problem-statement)  
+[Contents in Project Repo](#repo-content)  
+[Data Dictionary](#data-dictionary)  
+[Executive Summary](#executive-summary)  
+[Known Issues](#known-issues)  
+[Future iterations/next steps](#next-steps)  
+[Data Sources](#data-sources)  
+[Sources](#sources)
 
 ---
 
@@ -27,18 +41,6 @@ Construct any model that will predict with at least 75% accuracy the winner in a
 1. Find a list of all division 1 college football teams.
 1. Obtain basic lifetime stats for each team in the list of Division 1 teams.  (Basic stats include: win-loss-tie record or win percentage, average offensive yards per game, average points per game, average number of touchdowns per game, average number of defensive tackles per game, average number of possessions per game, average number of fieldgoals per game, average number of points allowed, average number of yards allowed, etc.)
 1. Obtain the same stats as above, but for only the last 7 years.  The belief is that the near past performence, as opposed to the historical performence, of any given team will be a better predictor of success in current game play.  Seven years will act as a starting point for exploring the ambiguous concept of "near past."
----
-
-## Contents in README
-[Creators](#creators)  
-[Problem Statement](#problem-statement)  
-[Contents in Project Repo](#repo-content)  
-[Data Dictionary](#data-dictionary)  
-[Executive Summary](#executive-summary)  
-[Known Issues](#known-issues)  
-[Future iterations/next steps](#next-steps)  
-[Data Sources](#data-sources)  
-[Sources](#sources)
 
 ---
 
@@ -46,10 +48,9 @@ Construct any model that will predict with at least 75% accuracy the winner in a
 
 ## Contents in Project Repo
 1. [Data](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Data)  
-    1. [data_for_analysis](https://github.com/BlakeWallace/Project_Pigskin/blob/master/Data/data_for_analysis.csv)
-    1. 
-    1. 
-    1. 
+    1. [data_for_analysis.csv](https://github.com/BlakeWallace/Project_Pigskin/blob/master/Data/data_for_analysis.csv)
+    1. [Notre_Dame_Historical_win-loss.csv](https://github.com/BlakeWallace/Project_Pigskin/blob/master/Data/Notre_Dame_Historical_win-loss.csv)
+    1. [school_index_sr.csv](https://github.com/BlakeWallace/Project_Pigskin/blob/master/Data/school_index_sr.csv)
 1. [Notre_Dame_Football](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Notre_Dame_Football)
     1. [Exploring_Notre_Dame_historical_stats](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Notre_Dame_Football/Exploring_Notre_Dame_historical_stats.ipynb)
     1. [notre_dame_football_historical_data](https://github.com/BlakeWallace/Project_Pigskin/tree/master/Notre_Dame_Football/notre_dame_football_historical_data.ipynb)  
